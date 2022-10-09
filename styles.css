@@ -1,0 +1,18 @@
+h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 8rem;
+}
+
+h2{
+  font-family: 'Short Stack', cursive;
+  font-size: 4rem;
+}
+
+body{
+  background-color: #202123ff;
+  background-image: url("1.jpg");
+  color: #DBC8AC;
+  text-align: center;
+  padding: 40% 0;
+
+}
